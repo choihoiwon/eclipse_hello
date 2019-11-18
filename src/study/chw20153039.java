@@ -4,7 +4,8 @@ public class chw20153039 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System. out.println ("20153039 ÃÖÈ¸¿ø ¿ø°İÀúÀå¼Ò¿¡ ¿Ã¸®±â ");
+		System. out.println ("20153039 ìµœíšŒì› ì›ê²©ì €ì¥ì†Œì— ì˜¬ë¦¬ê¸° ");
+		System. out.println ("ê¹ƒí—ˆë¸Œì—ì„œ ìˆ˜ì • ");
 	}
 
 }
